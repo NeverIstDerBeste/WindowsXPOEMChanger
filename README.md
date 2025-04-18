@@ -22,6 +22,8 @@ Here are the Supported Windows Versions that the OEM Info can be changed to:
 ❓: Maybe not Working or Working
 ❌: Not Working
 
+ℹ️For Windows Vista and Above check this site out: https://winaero.com/change-add-oem-support-information-windows-10/ℹ️
+
 # How to Setup
 Just Open README.txt on the Folder an Read what to do!
 
